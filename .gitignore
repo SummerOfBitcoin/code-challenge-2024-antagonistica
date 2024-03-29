@@ -1,0 +1,5 @@
+# ignore all files created by direnv
+/.direnv/
+/.envrc
+/flake.lock
+/flake.nix
